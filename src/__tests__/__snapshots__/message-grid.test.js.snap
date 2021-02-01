@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageGrid Render new message 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Error Type 1
+        </h2>
+        <h4
+          className="MuiTypography-root MuiTypography-subtitle1"
+        >
+          Count 
+          0
+        </h4>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Warning Type 2
+        </h2>
+        <h4
+          className="MuiTypography-root MuiTypography-subtitle1"
+        >
+          Count 
+          0
+        </h4>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Info Type 3
+        </h2>
+        <h4
+          className="MuiTypography-root MuiTypography-subtitle1"
+        >
+          Count 
+          0
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+`;

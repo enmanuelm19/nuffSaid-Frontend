@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Render all messages 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-grid-xs-12"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <h2
+      className="MuiTypography-root MuiTypography-h5"
+    />
+    <h4
+      className="MuiTypography-root MuiTypography-subtitle1"
+    >
+      Count 
+      3
+    </h4>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <div
+      className="MuiPaper-root MuiAlert-root MuiAlert-filledSuccess MuiPaper-elevation0"
+      role="alert"
+      style={
+        Object {
+          "backgroundColor": "#F56236",
+        }
+      }
+    >
+      <div
+        className="MuiAlert-message"
+      >
+        First message
+      </div>
+      <div
+        className="MuiAlert-action"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-button-1 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Clear
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <div
+      className="MuiPaper-root MuiAlert-root MuiAlert-filledSuccess MuiPaper-elevation0"
+      role="alert"
+      style={
+        Object {
+          "backgroundColor": "#FCE788",
+        }
+      }
+    >
+      <div
+        className="MuiAlert-message"
+      >
+        Second message
+      </div>
+      <div
+        className="MuiAlert-action"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-button-1 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Clear
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <div
+      className="MuiPaper-root MuiAlert-root MuiAlert-filledSuccess MuiPaper-elevation0"
+      role="alert"
+      style={
+        Object {
+          "backgroundColor": "#88FCA3",
+        }
+      }
+    >
+      <div
+        className="MuiAlert-message"
+      >
+        Third message
+      </div>
+      <div
+        className="MuiAlert-action"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-button-1 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Clear
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
